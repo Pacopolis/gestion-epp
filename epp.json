@@ -62,10 +62,10 @@
   {
     "RPE": "9MLVB",
     "Nombre": "ALONSO GAMI�O DIANA SUJEY",
-    "Especialidad": "",
+    "Especialidad": "SUBESTACION",
     "Categoria": "",
-    "Subestacion": "",
-    "Sector": "",
+    "Subestacion": "TOLUCA",
+    "Sector": "COAPA",
     "Equipos": [
       {
         "Equipo": "",
