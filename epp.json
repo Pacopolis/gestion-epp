@@ -49,8 +49,8 @@
     "Nombre": "ALONSO CRUZ EFRAIN",
     "Especialidad": "CONTROL",
     "Categoria": "",
-    "Subestacion": "COAPA",
-    "Sector": "COAPA",
+    "Subestacion": "",
+    "Sector": "",
     "Equipos": [
       {
         "Equipo": "",
@@ -4918,5 +4918,13 @@
         "Entrego": ""
       }
     ]
+  },
+  {
+    "RPE": "9FMKE",
+    "Nombre": "KASKFM",
+    "Especialidad": "FSKSK",
+    "Subestacion": "FSAKK",
+    "Sector": "RGK",
+    "Equipos": []
   }
 ]
