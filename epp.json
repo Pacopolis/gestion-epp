@@ -49,8 +49,8 @@
     "Nombre": "ALONSO CRUZ EFRAIN",
     "Especialidad": "CONTROL",
     "Categoria": "",
-    "Subestacion": "",
-    "Sector": "",
+    "Subestacion": "DA",
+    "Sector": "wADda",
     "Equipos": [
       {
         "Equipo": "",
@@ -61,7 +61,7 @@
   },
   {
     "RPE": "9MLVB",
-    "Nombre": "ALONSO GAMIÑO DIANA SUJEY",
+    "Nombre": "ALONSO GAMIï¿½O DIANA SUJEY",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
@@ -166,7 +166,7 @@
   },
   {
     "RPE": "9JV5B",
-    "Nombre": "GARCIA DUEÑAS MARIA SOLEDAD",
+    "Nombre": "GARCIA DUEï¿½AS MARIA SOLEDAD",
     "Especialidad": "COMUNICACIONES",
     "Categoria": "PROFESIONISTA",
     "Subestacion": "CUAJIMALPA",
@@ -184,7 +184,7 @@
     "Nombre": "ARANDA ARREOLA MARCO TULIO",
     "Especialidad": "PYM",
     "Categoria": "TECNICO AUXILIAR",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -196,7 +196,7 @@
   },
   {
     "RPE": "9MLT5",
-    "Nombre": "ARCOS AVIÑA IGNACIO",
+    "Nombre": "ARCOS AVIï¿½A IGNACIO",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "ELECTRICISTA",
     "Subestacion": "ATENCO",
@@ -214,7 +214,7 @@
     "Nombre": "ARELLANO BECERRA GILBERTO",
     "Especialidad": "CONTROL",
     "Categoria": "TECNICO AUXILIAR",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -304,7 +304,7 @@
     "Nombre": "BAQUEDANO MORENO RAMIRO",
     "Especialidad": "PYM",
     "Categoria": "PROFESIONISTA",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -319,7 +319,7 @@
     "Nombre": "BARCENAS GUERRERO JUAN CARLOS",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "ELECTRICISTA",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -451,7 +451,7 @@
   },
   {
     "RPE": "9JV7J",
-    "Nombre": "ROJAS CASTAÑEDA FROYLAN",
+    "Nombre": "ROJAS CASTAï¿½EDA FROYLAN",
     "Especialidad": "PYM",
     "Categoria": "PROFESIONISTA",
     "Subestacion": "CUAJIMALPA",
@@ -811,7 +811,7 @@
   },
   {
     "RPE": "9JUXW",
-    "Nombre": "CORDOVA NUÑO VIRIDIANA",
+    "Nombre": "CORDOVA NUï¿½O VIRIDIANA",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
@@ -829,7 +829,7 @@
     "Nombre": "CORIA SANCHEZ JAVIER",
     "Especialidad": "CONTROL",
     "Categoria": "TECNICO",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "",
     "Equipos": [
       {
@@ -1099,7 +1099,7 @@
     "Nombre": "DIAZ LOPEZ ALFONSO",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "ELECTRICISTA",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -1306,7 +1306,7 @@
   },
   {
     "RPE": "9L4PA",
-    "Nombre": "ESPINOZA BAÑALES ERIK DANIEL",
+    "Nombre": "ESPINOZA BAï¿½ALES ERIK DANIEL",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
@@ -1366,7 +1366,7 @@
   },
   {
     "RPE": "9JUXD",
-    "Nombre": "FLORES IÑIGUEZ FRANCISCO DE JESUS",
+    "Nombre": "FLORES Iï¿½IGUEZ FRANCISCO DE JESUS",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
@@ -1399,7 +1399,7 @@
     "Nombre": "FLORES PEREZ GABRIEL",
     "Especialidad": "PYM",
     "Categoria": "TECNICO",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -1756,7 +1756,7 @@
   },
   {
     "RPE": "9JV4F",
-    "Nombre": "GARCIA ZUÑIGA ANTONIO",
+    "Nombre": "GARCIA ZUï¿½IGA ANTONIO",
     "Especialidad": "CONTROL",
     "Categoria": "TECNICO",
     "Subestacion": "COAPA",
@@ -1816,7 +1816,7 @@
   },
   {
     "RPE": "9JV3Y",
-    "Nombre": "GOMEZ NUÑEZ EMMANUEL",
+    "Nombre": "GOMEZ NUï¿½EZ EMMANUEL",
     "Especialidad": "COMUNICACIONES",
     "Categoria": "PROFESIONISTA",
     "Subestacion": "COAPA",
@@ -1864,7 +1864,7 @@
     "Nombre": "GONZALEZ CASTILLO MIGUEL ALBERTO",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "ELECTRICISTA",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -2329,7 +2329,7 @@
     "Nombre": "IZQUIERDO TORRES DANIEL RODRIGO",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "SUPERVISOR ZONA III",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -2374,7 +2374,7 @@
     "Nombre": "JARAMILLO PINEDA JUAN JESUS",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "TECNICO AUXILIAR",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -2404,7 +2404,7 @@
     "Nombre": "JIMENEZ DIAZ MARIANA",
     "Especialidad": "COMUNICACIONES",
     "Categoria": "PROFESIONISTA",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -2479,7 +2479,7 @@
     "Nombre": "LEYVA SANCHEZ ANGEL EDUARDO",
     "Especialidad": "CONTROL",
     "Categoria": "TECNICO",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -2779,7 +2779,7 @@
     "Nombre": "MARTINEZ FAJARDO MARIO ALBERTO",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "TECNICO",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -2914,7 +2914,7 @@
     "Nombre": "MENDEZ PAZ JOSE MARIA",
     "Especialidad": "CONTROL",
     "Categoria": "PROFESIONISTA",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -3109,7 +3109,7 @@
     "Nombre": "MORENO LOPEZ NOEL",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "TECNICO",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -3169,7 +3169,7 @@
     "Nombre": "MUNGUIA MARTIN CHRISTOPHER JONATHAN",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "PROFESIONISTA",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -3181,7 +3181,7 @@
   },
   {
     "RPE": "K831D",
-    "Nombre": "MUNRGUIA OÑATE IVAN JADATH",
+    "Nombre": "MUNRGUIA Oï¿½ATE IVAN JADATH",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
@@ -3196,7 +3196,7 @@
   },
   {
     "RPE": "9MLPY",
-    "Nombre": "MUÑOZ JUAREZ FRANCISCO",
+    "Nombre": "MUï¿½OZ JUAREZ FRANCISCO",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
@@ -3211,7 +3211,7 @@
   },
   {
     "RPE": "9JUYP",
-    "Nombre": "MUÑOZ JUAREZ JOSE AURELIO",
+    "Nombre": "MUï¿½OZ JUAREZ JOSE AURELIO",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
@@ -3226,7 +3226,7 @@
   },
   {
     "RPE": "9JV44",
-    "Nombre": "MUÑOZ ROMO JUAN MANUEL",
+    "Nombre": "MUï¿½OZ ROMO JUAN MANUEL",
     "Especialidad": "CONTROL",
     "Categoria": "TECNICO",
     "Subestacion": "DEPORTIVA",
@@ -3259,7 +3259,7 @@
     "Nombre": "NAVARRETE GARCIA JOSE ANTONIO",
     "Especialidad": "COMUNICACIONES",
     "Categoria": "TECNICO AUXILIAR",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -3316,7 +3316,7 @@
   },
   {
     "RPE": "9JUVR",
-    "Nombre": "NUÑEZ GARIBAY OMAR ALEXANDER",
+    "Nombre": "NUï¿½EZ GARIBAY OMAR ALEXANDER",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "JEFE OFICINA ZONA III",
     "Subestacion": "ATENCO",
@@ -3601,7 +3601,7 @@
   },
   {
     "RPE": "9JUYW",
-    "Nombre": "PIÑON GONZAGA JOSE ALFREDO",
+    "Nombre": "PIï¿½ON GONZAGA JOSE ALFREDO",
     "Especialidad": "COMUNICACIONES",
     "Categoria": "PROFESIONISTA",
     "Subestacion": "COAPA",
@@ -4039,7 +4039,7 @@
     "Nombre": "ROSAS GONZALEZ VICENTE",
     "Especialidad": "PYM",
     "Categoria": "TECNICO AUXILIAR",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -4111,7 +4111,7 @@
   },
   {
     "RPE": "9MLPT",
-    "Nombre": "SALOMON SEDEÑO ISRAEL EUSTORGIO",
+    "Nombre": "SALOMON SEDEï¿½O ISRAEL EUSTORGIO",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "ELECTRICISTA",
     "Subestacion": "TACUBAYA",
@@ -4444,7 +4444,7 @@
     "Nombre": "TOVAR YEPEZ OSCAR",
     "Especialidad": "COMUNICACIONES",
     "Categoria": "TECNICO AUXILIAR",
-    "Subestacion": "TAXQUEÑA",
+    "Subestacion": "TAXQUEï¿½A",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -4666,7 +4666,7 @@
   },
   {
     "RPE": "9EV38",
-    "Nombre": "VELAZQUEZ PIÑA RODOLFO VALENTINO",
+    "Nombre": "VELAZQUEZ PIï¿½A RODOLFO VALENTINO",
     "Especialidad": "PYM",
     "Categoria": "JEFE OFICINA ZONA III",
     "Subestacion": "OLIVAR",
@@ -4891,7 +4891,7 @@
   },
   {
     "RPE": "9JV3T",
-    "Nombre": "ZUÑIGA GUEVARA FRANCISCO ELEAZAR",
+    "Nombre": "ZUï¿½IGA GUEVARA FRANCISCO ELEAZAR",
     "Especialidad": "CONTROL",
     "Categoria": "TECNICO",
     "Subestacion": "COAPA",
@@ -4906,7 +4906,7 @@
   },
   {
     "RPE": "9JV53",
-    "Nombre": "ZUÑIGA REYES GERARDO",
+    "Nombre": "ZUï¿½IGA REYES GERARDO",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
