@@ -4946,5 +4946,19 @@
     "Subestacion": "FSAKK",
     "Sector": "RGK",
     "Equipos": []
+  },
+  {
+    "RPE": "FNE",
+    "Nombre": "FAGRS",
+    "Especialidad": "FEA",
+    "Subestacion": "WAF",
+    "Sector": "WAD",
+    "Equipos": [
+      {
+        "Equipo": "Arnés Petzel",
+        "FechaEntrega": "2025-02-13",
+        "Entrego": "FR"
+      }
+    ]
   }
 ]
