@@ -9,6 +9,11 @@
     "Equipos": [
       {
         "Equipo": "Casco",
+        "FechaEntrega": "2024-03-01",
+        "Entrego": "Francisco"
+      },
+      {
+        "Equipo": "Barbiquejo 4 puntos",
         "FechaEntrega": "2024-12-02",
         "Entrego": "Francisco"
       }
