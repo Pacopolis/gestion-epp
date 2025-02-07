@@ -11,11 +11,6 @@
         "Equipo": "Casco",
         "FechaEntrega": "2024-03-01",
         "Entrego": "Francisco"
-      },
-      {
-        "Equipo": "Guantes de Nitrilo",
-        "FechaEntrega": "2025-02-19",
-        "Entrego": "Francisco"
       }
     ]
   },
@@ -31,16 +26,6 @@
         "Equipo": "",
         "FechaEntrega": "",
         "Entrego": ""
-      },
-      {
-        "Equipo": "",
-        "FechaEntrega": "2025-02-19",
-        "Entrego": "Francisco"
-      },
-      {
-        "Equipo": "Guantes de Nitrilo",
-        "FechaEntrega": "2025-02-19",
-        "Entrego": "Francisco"
       }
     ]
   },
@@ -56,11 +41,6 @@
         "Equipo": "",
         "FechaEntrega": "",
         "Entrego": ""
-      },
-      {
-        "Equipo": "",
-        "FechaEntrega": "2025-02-19",
-        "Entrego": "Francisco"
       }
     ]
   },
