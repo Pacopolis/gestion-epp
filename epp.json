@@ -81,7 +81,7 @@
   },
   {
     "RPE": "9MLVB",
-    "Nombre": "ALONSO GAMI�O DIANA SUJEY",
+    "Nombre": "ALONSO GAMIÑO DIANA SUJEY",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "",
     "Subestacion": "TOLUCA",
@@ -186,7 +186,7 @@
   },
   {
     "RPE": "9JV5B",
-    "Nombre": "GARCIA DUE�AS MARIA SOLEDAD",
+    "Nombre": "GARCIA DUEÑAS MARIA SOLEDAD",
     "Especialidad": "COMUNICACIONES",
     "Categoria": "PROFESIONISTA",
     "Subestacion": "CUAJIMALPA",
@@ -204,7 +204,7 @@
     "Nombre": "ARANDA ARREOLA MARCO TULIO",
     "Especialidad": "PYM",
     "Categoria": "TECNICO AUXILIAR",
-    "Subestacion": "TAXQUE�A",
+    "Subestacion": "TAXQUEÑA",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -216,7 +216,7 @@
   },
   {
     "RPE": "9MLT5",
-    "Nombre": "ARCOS AVI�A IGNACIO",
+    "Nombre": "ARCOS AVIÑA IGNACIO",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "ELECTRICISTA",
     "Subestacion": "ATENCO",
@@ -234,7 +234,7 @@
     "Nombre": "ARELLANO BECERRA GILBERTO",
     "Especialidad": "CONTROL",
     "Categoria": "TECNICO AUXILIAR",
-    "Subestacion": "TAXQUE�A",
+    "Subestacion": "TAXQUEÑA",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -324,7 +324,7 @@
     "Nombre": "BAQUEDANO MORENO RAMIRO",
     "Especialidad": "PYM",
     "Categoria": "PROFESIONISTA",
-    "Subestacion": "TAXQUE�A",
+    "Subestacion": "TAXQUEÑA",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -339,7 +339,7 @@
     "Nombre": "BARCENAS GUERRERO JUAN CARLOS",
     "Especialidad": "SUBESTACIONES",
     "Categoria": "ELECTRICISTA",
-    "Subestacion": "TAXQUE�A",
+    "Subestacion": "TAXQUEÑA",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -471,7 +471,7 @@
   },
   {
     "RPE": "9JV7J",
-    "Nombre": "ROJAS CASTA�EDA FROYLAN",
+    "Nombre": "ROJAS CASTAÑEDA FROYLAN",
     "Especialidad": "PYM",
     "Categoria": "PROFESIONISTA",
     "Subestacion": "CUAJIMALPA",
@@ -1419,7 +1419,7 @@
     "Nombre": "FLORES PEREZ GABRIEL",
     "Especialidad": "PYM",
     "Categoria": "TECNICO",
-    "Subestacion": "TAXQUE�A",
+    "Subestacion": "TAXQUEÑA",
     "Sector": "COAPA",
     "Equipos": [
       {
@@ -4911,7 +4911,7 @@
   },
   {
     "RPE": "9JV3T",
-    "Nombre": "ZU�IGA GUEVARA FRANCISCO ELEAZAR",
+    "Nombre": "ZUÑIGA GUEVARA FRANCISCO ELEAZAR",
     "Especialidad": "CONTROL",
     "Categoria": "TECNICO",
     "Subestacion": "COAPA",
@@ -4926,7 +4926,7 @@
   },
   {
     "RPE": "9JV53",
-    "Nombre": "ZU�IGA REYES GERARDO",
+    "Nombre": "ZUÑIGA REYES GERARDO",
     "Especialidad": "",
     "Categoria": "",
     "Subestacion": "",
@@ -4938,14 +4938,6 @@
         "Entrego": ""
       }
     ]
-  },
-  {
-    "RPE": "9FMKE",
-    "Nombre": "KASKFM",
-    "Especialidad": "FSKSK",
-    "Subestacion": "FSAKK",
-    "Sector": "RGK",
-    "Equipos": []
   },
   {
     "RPE": "FNE",
